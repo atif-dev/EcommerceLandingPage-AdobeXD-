@@ -2,4 +2,6 @@
 Build with the help of YouTube <br/>
 https://youtu.be/Oj6q_-kAPrQ <br/>
 Screenshot: <br/>
-https://github.com/atif-dev/EcommerceLandingPage-AdobeXD-/blob/main/ecommerce%20landing%20page.png
+https://github.com/atif-dev/EcommerceLandingPage-AdobeXD-/blob/main/ecommerce%20landing%20page.png <br/>
+Adobe XD file can be viewed at: <br/>
+https://psdetch.com/
